@@ -1,4 +1,4 @@
-# Copyright (C) 2021 L. TechXero ~ DarkXero
+# Copyright (C) 2021 TechXero ~ DarkXero
 
 # general settings
  title-text: ""
@@ -15,7 +15,7 @@
 + boot_menu {
     left = 16%
     width = 50%
-    top = 18%
+    top = 20%
     height = 45%	
     item_font = "DroidLogo Regular 16"
     item_color = "#1156dc"
