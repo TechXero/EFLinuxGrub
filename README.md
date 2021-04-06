@@ -1,6 +1,6 @@
 # EFLinux Grub Theme
 
-![EFGrub](https://imghost.techxero.com/images/Nuc.png)
+![EFGrub](https://i.imgur.com/OM0bXMR.png)
 
 This is where EFLinux Grub Theme will be. Constantly updated so keep coming back. I included a script that makes installing much easier, just follow steps below :<br />
 
