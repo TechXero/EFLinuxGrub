@@ -1,4 +1,4 @@
-# EFLinux Grub Theme Grub Theme
+# EFLinux Grub Theme
 
 ![EFGrub](https://imghost.techxero.com/images/Nuc.png)
 
